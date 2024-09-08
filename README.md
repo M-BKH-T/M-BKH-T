@@ -17,6 +17,6 @@ I'm a self-taught student from IRAN 🇮🇷
 ---
 ⚡ Technologies I use
 
-<img src="python.jpeg" width="65" /> | <img src="jupyter.png" width="65" /> | <img src="tensorflow.png" width="65" /> | <img src="keras.png" width="65" /> | <img src="mxnet.png" width="60" /> | <img src="scikitlearn.png" width="60" />
+<img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/python.jpeg" width="65" /> | <img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/jupyter.png" width="65" /> | <img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/tensorflow.png" width="65" /> | <img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/keras.png" width="65" /> | <img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/mxnet.png" width="60" /> | <img src="https://github.com/M-BKH-T/M-BKH-T/blob/main/images/scikitlearn.png" width="60" />
 --- | --- | --- | --- | --- | --- |
 Phython | Jupyter | Tensorflow | Keras | MXnet | Scikitlearn
